@@ -3,6 +3,13 @@
 Assembly
 ==========================
 
+Installation video:  
+.. raw:: html
+
+   <video src="URL_TO_VIDEO" controls width="100%" title="PoE HAT Installation"></video>
+
+(Replace `URL_TO_VIDEO` with the actual link.)
+
 .. tip::
 
    It is recommended to install the acrylic cover before use.  
