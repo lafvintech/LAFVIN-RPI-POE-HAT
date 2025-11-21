@@ -44,8 +44,6 @@ Note
 Product Features
 --------------------
 
-**Strong Compatibility**  
-
 .. list-table::
    :header-rows: 0
    :widths: 18 82
@@ -61,3 +59,16 @@ Product Features
 
    * - **Mechanical Friendly**
      - Reserved mounting space for active cooling fans; each cable terminal has a top exit slot for effortless wiring.
+
++----------------------+----------------------------------+
+| **PoE Power Input**  | 37 V – 57 V DC                   |
++======================+==================================+
+| **Power Output**     | GPIO header: 5 V 4.5 A (MAX)     |
+|                      | 2P header:   12 V 2 A (MAX)      |
++----------------------+----------------------------------+
+| **Dimensions**       | 150.5 mm × 102 mm                |
++----------------------+----------------------------------+
+| **Weight**           | 0.1 kg                           |
++----------------------+----------------------------------+
+| **Network Standard** | IEEE 802.3af/at PoE              |
++----------------------+----------------------------------+
