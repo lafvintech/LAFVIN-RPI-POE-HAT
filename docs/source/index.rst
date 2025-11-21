@@ -1,4 +1,4 @@
-LAFVIN UPS Module 3S 
+LAFVIN RPI POE HAT 
 ========================================
 
 .. toctree::
