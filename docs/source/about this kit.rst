@@ -43,24 +43,25 @@ Note
 
 .. raw:: html
 
-   <style>
-     .feat b{display:block;color:#e74c3c;margin-bottom:4px}
-     .feat div{margin-bottom:1em}
-   </style>
+   <div style="border:2px solid #e74c3c;border-radius:8px;padding:12px;margin:8px 0">
+   <b style="color:#e74c3c">Strong Compatibility</b><br>
+   Supports Raspberry Pi 3B+/4B/5; switching between models is achieved instantly through a single 2.54 mm 2×P connector socket.
+   </div>
 
-.. container:: feat
+   <div style="border:2px solid #3498db;border-radius:8px;padding:12px;margin:8px 0">
+   <b style="color:#3498db">Rich Interfaces</b><br>
+   Retains the standard 40-pin GPIO header for easy stacking of other Raspberry Pi expansion boards; additionally provides 12 V/2 A and 5 V/4.5 A external power connectors to directly supply external devices.
+   </div>
 
-  **Strong Compatibility**  
-  Supports Raspberry Pi 3B+/4B/5; switching between models is achieved instantly through a single 2.54 mm 2×P connector socket.
+   <div style="border:2px solid #2ecc71;border-radius:8px;padding:12px;margin:8px 0">
+   <b style="color:#2ecc71">Easy to Use</b><br>
+   Snap on the PoE HAT and plug in the 2×2P connector to start working immediately—no extra setup required.
+   </div>
 
-  **Rich Interfaces**  
-  Retains the standard 40-pin GPIO header for easy stacking of other Raspberry Pi expansion boards; additionally provides 12 V/2 A and 5 V/4.5 A external power connectors to directly supply external devices.
-
-  **Easy to Use**  
-  Snap on the PoE HAT and plug in the 2×2P connector to start working immediately—no extra setup required.
-
-  **Mechanical Friendly**  
-  Reserved mounting space for active cooling fans; each cable terminal has a top exit slot for effortless wiring.
+   <div style="border:2px solid #f39c12;border-radius:8px;padding:12px;margin:8px 0">
+   <b style="color:#f39c12">Mechanical Friendly</b><br>
+   Reserved mounting space for active cooling fans; each cable terminal has a top exit slot for effortless wiring.
+   </div>
 
 +----------------------+----------------------------------+
 | **PoE Power Input**  | 37 V – 57 V DC                   |
