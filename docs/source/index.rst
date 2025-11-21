@@ -8,5 +8,4 @@ LAFVIN RPI POE HAT
    Note
    Assembly
    preparation/Use of Raspberry Pi
-   Upload Code
    Demo Video

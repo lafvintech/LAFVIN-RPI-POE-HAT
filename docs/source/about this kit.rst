@@ -6,7 +6,7 @@ About_this_kit
 Preface
 -------------------------------
 
-We first need to understand what an UPS Module 3S is. The illustration below shows an UPS Module 3S.
+We first need to understand what an POE HAT is. The illustration below shows an POE HAT.
 
 .. figure:: ./Tutorial/img/LB004_A4.jpg
    :align: center
@@ -16,17 +16,16 @@ We first need to understand what an UPS Module 3S is. The illustration below sho
    :align: center
    :width: 80%
 
+Our PoE HAT is a Power over Ethernet expansion board compatible with Raspberry Pi 3B+/4B/5. Compliant with the IEEE 802.3af/at network standard, it draws power directly from a PoE switch using only a single network cable. It features two independent DC output interfaces: 12V/2A and 5V/4.5A, providing ample power to the Raspberry Pi and peripherals.
+
 Componen List
 -------------------------------
 
-1. UPS Module 3S x1
-2. Type-C to XH2.54 Terminal Cable x1
-3. Dual-Head Reverse XH2.54mm Terminal Cable x1
-4. 12MM Self-Locking Switch to XH2.54mm x1
-5. DC5521 Female Connector Charging Port to XH2.54mm x1
-6. 12.6V 2A Power Adapter x1
-7. Acrylic Board x4
-8. Screw Pack x1
-9. Cross Screwdriver x1
+1. POE HAT x1
+2. 2×2P PoE adapter header x2
+3. M2.5×18 brass standoffs x4
+4. M2.5×8 black countersunk screws x8
+5. Pi5 heatsink kit x1
+6. Cross-head screwdriver x1
 
    .. image:: /Tutorial/img/LB004_A1_V3.jpg
