@@ -45,15 +45,22 @@ Product Features
 --------------------
 
 **Strong Compatibility**  
-Supports Raspberry Pi 3B+/4B/5; switching between models is achieved instantly through a single 2.54 mm 2×P connector socket.
 
-**Rich Interfaces**  
-- Standard 40-pin GPIO header is retained for easy stacking of other Raspberry Pi expansion boards.  
-- Additional 12 V / 2 A and 5 V / 4.5 A external power connectors are provided to supply power to external devices directly.
+.. list-table:: 
+   :header-rows: 0
+   :widths: 22 78
+   :class: features
 
-**Easy to Use**  
-Snap on the PoE HAT and plug in the 2×2P connector, then the board works immediately—no extra setup required.
+   * - **Strong Compatibility**
+     - One 2.54 mm 2×P socket lets the same board jump instantly between Pi 3B+, 4B and 5.
 
-**Mechanical Friendly**  
-- Reserved mounting space for active cooling fans.  
-- Every cable terminal has a top exit slot for effortless wire routing.
+   * - **Rich Interfaces**
+     - * Keep the native 40-pin GPIO header free for extra HATs.  
+       * Dedicated 12 V @ 2 A & 5 V @ 4.5 A jacks feed power-hungry peripherals directly.
+
+   * - **Easy to Use**
+     - Click on the PoE HAT, plug the 2×2P connector—done. Zero config, zero wait.
+
+   * - **Mechanical Friendly**
+     - * Pre-cut posts for active coolers.  
+       * Every terminal has a top outlet so wires exit cleanly without kinks.
