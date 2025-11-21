@@ -10,10 +10,9 @@ Installation video:
 
 (Replace `URL_TO_VIDEO` with the actual link.)
 
-.. tip::
+.. Tip::
 
-   It is recommended to install the acrylic cover before use.  
-   It prevents short circuits between the bottom circuitry and nearby objects and also secures the batteries in place.
+   If adding cables or third-party heatsinks/peripherals, plan install order and check height to prevent metal contact that could short components.
 
 .. figure:: ./Tutorial/img/LB004_A5.jpg
    :align: center
