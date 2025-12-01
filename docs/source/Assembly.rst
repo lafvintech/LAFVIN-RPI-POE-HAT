@@ -13,3 +13,7 @@ Installation video:
 .. Tip::
 
    If adding cables or third-party heatsinks/peripherals, plan install order and check height to prevent metal contact that could short components.
+
+.. figure:: ./Tutorial/img/LB006_A3-2.jpg
+   :align: center
+   :width: 70%

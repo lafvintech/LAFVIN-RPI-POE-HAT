@@ -12,6 +12,7 @@ We first need to understand what an POE HAT is ：
    :align: center
    :width: 70%
 
+
 Our PoE HAT is a Power over Ethernet expansion board compatible with Raspberry Pi 3B+/4B/5. Compliant with the IEEE 802.3af/at network standard, it draws power directly from a PoE switch using only a single network cable. It features two independent DC output interfaces: 12V/2A and 5V/4.5A, providing ample power to the Raspberry Pi and peripherals.
 
 .. figure:: ./Tutorial/img/LB006_A5.jpg
